@@ -5,3 +5,8 @@ System.out.println("hello world");
 }
 /// to compile in cmd 
 javac filename.java && java filename 
+
+
+
+//// to create the bycode through cmd 
+javac filename.java
