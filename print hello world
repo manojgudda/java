@@ -14,4 +14,6 @@ javac filename.java
 after saving the bycode and the type to execute in cmd
 
 java filename.java
+or 
+java fliename
 //***************************** java is platfrom independent through by code only 
