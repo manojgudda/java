@@ -10,3 +10,6 @@ javac filename.java && java filename
 
 //// to create the bycode through cmd 
 javac filename.java
+
+
+//***************************** java is platfrom independent through by code only 
