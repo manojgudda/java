@@ -11,5 +11,7 @@ javac filename.java && java filename
 //// to create the bycode through cmd 
 javac filename.java
 
+after saving the bycode and the type to execute in cmd
 
+java filename.java
 //***************************** java is platfrom independent through by code only 
