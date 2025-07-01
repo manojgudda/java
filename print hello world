@@ -1,0 +1,7 @@
+public class Newanimal{
+public static void main (String[]args){
+System.out.println("hello world");
+}
+}
+/// to compile in cmd 
+javac filename.java && java filename 
